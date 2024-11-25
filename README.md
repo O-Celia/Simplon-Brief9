@@ -1,4 +1,4 @@
-# **Automatisation du déploiement de Jenkins avec Docker, automatisation du déploiement de l'application du Brief 8 en canary dans la pipeline Jenkins, déploiement d'outils de sécurité (OWASP et SonarCloud) et test de charge avec Bash** <br/>
+# Automatisation du déploiement de Jenkins avec Docker, du déploiement de l'application en canary dans la pipeline Jenkins, et du déploiement d'outils de sécurité (OWASP et SonarCloud) et test de charge avec Bash <br/>
 
 Ce projet vise à mettre en place une infrastructure pour un cluster Kubernetes AKS, déployer une application avec Jenkins en suivant un pipeline CI/CD, et intégrer des outils de sécurité pour garantir la qualité et la fiabilité du code. La mise en place complète est décrite dans l'Executive SUmmary.
 
